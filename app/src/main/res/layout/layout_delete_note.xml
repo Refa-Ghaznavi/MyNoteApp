@@ -16,7 +16,7 @@
         android:layout_marginTop="@dimen/_8sdp"
         android:contentDescription="@string/app_name"
         android:src="@drawable/ic_delete"
-        android:tint="@color/colorWhite"
+        android:tint="@color/colorDelete"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"/>
 

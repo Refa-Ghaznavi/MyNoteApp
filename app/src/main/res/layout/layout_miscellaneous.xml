@@ -17,6 +17,8 @@
         android:fontFamily="@font/ubuntu_medium"
         android:gravity="center"
         android:includeFontPadding="false"
+        android:textStyle="bold"
+        android:background="@drawable/back_bg"
         android:text="@string/miscellaneous"
         android:textColor="@color/colorWhite"
         android:textSize="@dimen/_13ssp"/>
